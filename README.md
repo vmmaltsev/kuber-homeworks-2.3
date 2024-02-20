@@ -17,7 +17,7 @@
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_144.png)
 
-
+Манифесты доступны по ссылке https://github.com/vmmaltsev/kuber-homeworks-2.3/tree/main/1
 
 ------
 
@@ -33,5 +33,5 @@
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_145.png)
 
-
+Манаифесты доступны по ссылке https://github.com/vmmaltsev/kuber-homeworks-2.3/tree/main/2
 
